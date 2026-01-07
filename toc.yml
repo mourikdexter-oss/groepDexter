@@ -56,7 +56,7 @@ project:
           - file: Content/Labs/Warmtecapaciteit.ipynb
           - file: Content/Labs/koelbuis.ipynb 
           - file: Content/Labs/cappucino.ipynb
-          - file: Content/Labs/druksensor.ipynb 
+          - file: Content/Labs/druksensor.ipynb
 
       # - title: Druk
       #   children:
